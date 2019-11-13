@@ -1,0 +1,12 @@
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\obj\Debug\PracticaInicial.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\obj\Debug\PracticaInicial.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\bin\Debug\PracticaInicial.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\bin\Debug\PracticaInicial.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\obj\Debug\PracticaInicial.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\obj\Debug\PracticaInicial.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\bin\Debug\PracticaInicial.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\bin\Debug\PracticaInicial.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\obj\Debug\PracticaInicial.csprojAssemblyReference.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\obj\Debug\PracticaInicial.csproj.CoreCompileInputs.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\obj\Debug\PracticaInicial.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\PracticaInicial\PracticaInicial\obj\Debug\PracticaInicial.pdb
